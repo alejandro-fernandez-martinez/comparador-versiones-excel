@@ -14,6 +14,8 @@ En este caso primero se convertirán los Excel(.xlsx, .xls) a formato (.csv) y l
    - Descargar el convert_excel_to_csv.exe
    - Ejecutarlo. Va a pedir que selecciones 1 carpeta y va a generar otra carpeta dentro de esa que seleccionaste con todos los archivos .xlsx y .xls convertidos a .csv. Lo va a pedir 2 veces.
 
+   - Otra alternativa es ejecutar el archivo convert_excel_to_csv.py que está en la carpeta "code" desde la terminal directamente. Para ello hay que ir a la carpeta dónde lo tenemos descargado, pulsar el botón derecho del ratón, elegir "Abrir en Terminal" y poner el siguiente comando: python convert_excel_to_csv.py
+
 4. Comparar Excels usando WinMerge
    - Descargar el WinMerge-2.16.42.1-x64-Setup.exe
    - Instalarlo
